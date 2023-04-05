@@ -18,3 +18,91 @@ Apr. 04, 2023 11:04:44 P.M. controller.Manager <init>
 INFO: Application Launched
 Apr. 04, 2023 11:04:44 P.M. controller.Manager loadData
 INFO: Data Loaded
+Apr. 04, 2023 11:25:53 P.M. controller.Manager <init>
+INFO: Application Launched
+Apr. 04, 2023 11:25:53 P.M. controller.Manager loadData
+INFO: Data Loaded
+Apr. 04, 2023 11:26:09 P.M. controller.Manager btnHandler
+INFO: Search button pressed
+Apr. 04, 2023 11:26:12 P.M. controller.Manager radioAction
+INFO: Radio SN selected
+Apr. 04, 2023 11:26:13 P.M. controller.Manager btnHandler
+INFO: Search button pressed
+Apr. 04, 2023 11:26:14 P.M. controller.Manager listViewSelected
+INFO: Item selected in list view home
+Apr. 04, 2023 11:26:15 P.M. controller.Manager btnHandler
+INFO: Buy button pressed
+Apr. 04, 2023 11:26:15 P.M. controller.Manager listViewSelected
+INFO: Item selected in list view home
+Apr. 04, 2023 11:26:16 P.M. controller.Manager btnHandler
+INFO: Search button pressed
+Apr. 04, 2023 11:26:17 P.M. controller.Manager listViewSelected
+INFO: Item selected in list view home
+Apr. 04, 2023 11:26:19 P.M. controller.Manager listViewSelected
+INFO: Item selected in list view home
+Apr. 04, 2023 11:26:21 P.M. controller.Manager btnHandler
+INFO: Clear button pressed
+Apr. 04, 2023 11:26:23 P.M. controller.Manager radioAction
+INFO: Radio name selected
+Apr. 04, 2023 11:26:25 P.M. controller.Manager btnHandler
+INFO: Search button pressed
+Apr. 04, 2023 11:26:29 P.M. controller.Manager radioAction
+INFO: Radio type selected
+Apr. 04, 2023 11:26:33 P.M. controller.Manager btnHandler
+INFO: Search button pressed
+Apr. 04, 2023 11:26:35 P.M. controller.Manager btnHandler
+INFO: Clear button pressed
+Apr. 04, 2023 11:26:35 P.M. controller.Manager btnHandler
+INFO: Search button pressed
+Apr. 04, 2023 11:26:39 P.M. controller.Manager radioAction
+INFO: Radio name selected
+Apr. 04, 2023 11:26:40 P.M. controller.Manager btnHandler
+INFO: Search button pressed
+Apr. 04, 2023 11:26:41 P.M. controller.Manager btnHandler
+INFO: Buy button pressed
+Apr. 04, 2023 11:26:41 P.M. controller.Manager listViewSelected
+INFO: Item selected in list view home
+Apr. 04, 2023 11:26:51 P.M. controller.Manager btnHandlerRemove
+INFO: Search button pressed in remove page
+Apr. 04, 2023 11:26:53 P.M. controller.Manager btnHandlerRemove
+INFO: Clear button pressed in remove page
+Apr. 04, 2023 11:27:05 P.M. controller.Manager btnHandlerAdd
+INFO: Save button pressed
+Apr. 04, 2023 11:27:12 P.M. controller.Manager btnHandlerAdd
+INFO: Save button pressed
+Apr. 04, 2023 11:27:33 P.M. controller.Manager btnHandlerAdd
+INFO: Save button pressed
+Apr. 04, 2023 11:27:49 P.M. controller.Manager btnHandlerRemove
+INFO: Search button pressed in remove page
+Apr. 04, 2023 11:27:51 P.M. controller.Manager btnHandlerRemove
+INFO: Remove button pressed in remove page
+Apr. 04, 2023 11:27:51 P.M. controller.Manager listViewSelectedR
+INFO: Item selected in list view remove
+Apr. 04, 2023 11:28:00 P.M. controller.Manager btnHandlerRemove
+INFO: Search button pressed in remove page
+Apr. 04, 2023 11:28:01 P.M. controller.Manager btnHandlerRemove
+INFO: Clear button pressed in remove page
+Apr. 04, 2023 11:28:03 P.M. controller.Manager btnHandlerRemove
+INFO: Search button pressed in remove page
+Apr. 04, 2023 11:28:05 P.M. controller.Manager btnHandlerRemove
+INFO: Remove button pressed in remove page
+Apr. 04, 2023 11:28:05 P.M. controller.Manager listViewSelectedR
+INFO: Item selected in list view remove
+Apr. 04, 2023 11:28:05 P.M. controller.Manager btnHandlerRemove
+INFO: Clear button pressed in remove page
+Apr. 04, 2023 11:28:07 P.M. controller.Manager btnHandlerRemove
+INFO: Search button pressed in remove page
+Apr. 04, 2023 11:28:08 P.M. controller.Manager btnHandlerRemove
+INFO: Remove button pressed in remove page
+Apr. 04, 2023 11:28:08 P.M. controller.Manager listViewSelectedR
+INFO: Item selected in list view remove
+Apr. 04, 2023 11:28:09 P.M. controller.Manager btnHandlerRemove
+INFO: Clear button pressed in remove page
+Apr. 04, 2023 11:28:10 P.M. controller.Manager btnHandlerRemove
+INFO: Search button pressed in remove page
+Apr. 04, 2023 11:28:10 P.M. controller.Manager removeToy
+INFO: User Input not found
+Apr. 04, 2023 11:28:17 P.M. controller.Manager btnHandlerRemove
+INFO: Search button pressed in remove page
+Apr. 04, 2023 11:28:18 P.M. controller.Manager btnHandlerRemove
+INFO: Clear button pressed in remove page
